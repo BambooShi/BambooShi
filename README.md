@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BambooShi
 - 👀 I’m interested in web developing, and AI/ML
-- 🌱 I’m currently learning how to develop applications and incorporating AI/ML
+- 🌱 I’m currently learning how to develop applications that incorporates AI/ML
 
 I am a new programmer that hope to improve alongside others like me!
 
